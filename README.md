@@ -20,7 +20,7 @@ Using C++, I attempted to apply PCA for basic face recognition. The process invo
 
 ## Project Visualization (SVG)
 
-Below is a visualization related to the PCA face recognition project:
+Below is a visualization related to SVG project:
 
 ![SVG Visualization](https://github.com/RLR-GitHub/ECE270/blob/master/Screen%20Shot%202018-05-21%20at%209.52.22%20PM.png)
 
